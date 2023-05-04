@@ -2,3 +2,8 @@ Makefile
 CMakeCache.txt
 CMakeFiles/
 cmake_install.cmake
+
+include/config.hpp
+
+*.o
+*.a
